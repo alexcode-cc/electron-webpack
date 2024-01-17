@@ -1,0 +1,16 @@
+{
+  "name": "electron-webpack",
+  "version": "0.1.0",
+  "description": "electron with webpack",
+  "main": "main.js",
+  "repository": "git@github.com:alexcode-cc/electron-webpack.git",
+  "author": "alexcode",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.1.3"
+  }
+}
